@@ -1,0 +1,22 @@
+Mapping = {
+    "Revenue": None,
+    "Net income": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
+    "Interest expenses": None,
+    "Income taxes": None,
+    "Amortization ": None,
+    "Operating cash flow ": None,
+    "Capital expenditures": None,
+    "Dividend paid": None,
+    "Total assets": "CONSOLIDATED BALANCE SHEETS",
+    "Total liabilities": "CONSOLIDATED BALANCE SHEETS, LIABILITIES AND SHAREHOLDERS’ EQUITY",
+    "Operating income": "CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "Effective tax rate ": None,
+    "Cash  ": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "Current liabilities ": "CONSOLIDATED BALANCE SHEETS, LIABILITIES AND SHAREHOLDERS’ EQUITY",
+    "Interest bearing current liabilities ": None,
+    "Risk free rate (10Y treasury rate)": None,
+    "Beta": None,
+    "Market cap ": None,
+    "Long term debt": None,
+    "Dividends": None
+}

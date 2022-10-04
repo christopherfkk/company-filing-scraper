@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<body>
+<p>Say hi to your stock valuation bot (company filing scraper)</p>
+<form action="/frontend/result/" method="post">
+    {% csrf_token %}
+    <label for="result">Company ticker</label>
+    <input id="result" type="text" name="ticker"> <!-- name property is the dict key in the post data -->
+    <input type="submit" value="Search">
+</form>
+</body>
+</html>

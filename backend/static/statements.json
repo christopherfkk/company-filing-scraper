@@ -1,0 +1,330 @@
+{
+  "Document and Entity Information": {
+    "url": "R1.htm",
+    "category": "Cover"
+  },
+  "Consolidated Balance Sheets": {
+    "url": "R2.htm",
+    "category": "Statements"
+  },
+  "Consolidated Balance Sheets (Parenthetical)": {
+    "url": "R3.htm",
+    "category": "Statements"
+  },
+  "Consolidated Statements of Operations and Comprehensive Income (Loss)": {
+    "url": "R4.htm",
+    "category": "Statements"
+  },
+  "Consolidated Statements of Cash Flows": {
+    "url": "R5.htm",
+    "category": "Statements"
+  },
+  "Consolidated Statements of Stockholder's (Deficit) Equity": {
+    "url": "R6.htm",
+    "category": "Statements"
+  },
+  "Basis of Presentation": {
+    "url": "R7.htm",
+    "category": "Notes"
+  },
+  "Going Concern": {
+    "url": "R8.htm",
+    "category": "Notes"
+  },
+  "Summary of Significant Accounting Policies": {
+    "url": "R9.htm",
+    "category": "Notes"
+  },
+  "Recent Accounting Pronouncements": {
+    "url": "R10.htm",
+    "category": "Notes"
+  },
+  "Revenue Recognition": {
+    "url": "R11.htm",
+    "category": "Notes"
+  },
+  "Property and Equipment": {
+    "url": "R12.htm",
+    "category": "Notes"
+  },
+  "Goodwill": {
+    "url": "R13.htm",
+    "category": "Notes"
+  },
+  "Other Accrued Liabilities": {
+    "url": "R14.htm",
+    "category": "Notes"
+  },
+  "Long-Term Debt": {
+    "url": "R15.htm",
+    "category": "Notes"
+  },
+  "Derivatives": {
+    "url": "R16.htm",
+    "category": "Notes"
+  },
+  "Fair Value Measurements": {
+    "url": "R17.htm",
+    "category": "Notes"
+  },
+  "Income Taxes": {
+    "url": "R18.htm",
+    "category": "Notes"
+  },
+  "Stock-based and Long-Term Compensation": {
+    "url": "R19.htm",
+    "category": "Notes"
+  },
+  "Stockholder's Equity": {
+    "url": "R20.htm",
+    "category": "Notes"
+  },
+  "Employee Benefit Plans": {
+    "url": "R21.htm",
+    "category": "Notes"
+  },
+  "Commitments, Contingencies and Other Liabilities": {
+    "url": "R22.htm",
+    "category": "Notes"
+  },
+  "Quarterly Financial Information (Unaudited - see accompanying accountants' report)": {
+    "url": "R23.htm",
+    "category": "Notes"
+  },
+  "Consolidating Guarantor Financial Information": {
+    "url": "R24.htm",
+    "category": "Notes"
+  },
+  "Subsequent Events": {
+    "url": "R25.htm",
+    "category": "Notes"
+  },
+  "Summary of Significant Accounting Policies (Policies)": {
+    "url": "R26.htm",
+    "category": "Policies"
+  },
+  "Summary of Significant Accounting Policies (Tables)": {
+    "url": "R27.htm",
+    "category": "Tables"
+  },
+  "Revenue Recognition (Tables)": {
+    "url": "R28.htm",
+    "category": "Tables"
+  },
+  "Property and Equipment (Tables)": {
+    "url": "R29.htm",
+    "category": "Tables"
+  },
+  "Goodwill (Tables)": {
+    "url": "R30.htm",
+    "category": "Tables"
+  },
+  "Other Accrued Liabilities (Tables)": {
+    "url": "R31.htm",
+    "category": "Tables"
+  },
+  "Long-Term Debt (Tables)": {
+    "url": "R32.htm",
+    "category": "Tables"
+  },
+  "Derivatives (Tables)": {
+    "url": "R33.htm",
+    "category": "Tables"
+  },
+  "Fair Value Measurements (Tables)": {
+    "url": "R34.htm",
+    "category": "Tables"
+  },
+  "Income Taxes (Tables)": {
+    "url": "R35.htm",
+    "category": "Tables"
+  },
+  "Stock-based and Long-Term Compensation (Tables)": {
+    "url": "R36.htm",
+    "category": "Tables"
+  },
+  "Stockholder's Equity (Tables)": {
+    "url": "R37.htm",
+    "category": "Tables"
+  },
+  "Commitments, Contingencies and Other Liabilities (Tables)": {
+    "url": "R38.htm",
+    "category": "Tables"
+  },
+  "Quarterly Financial Information (Unaudited - see accompanying accountants' report)) (Tables)": {
+    "url": "R39.htm",
+    "category": "Tables"
+  },
+  "Consolidating Guarantor Financial Information (Tables)": {
+    "url": "R40.htm",
+    "category": "Tables"
+  },
+  "Basis of Presentation - Narrative (Details)": {
+    "url": "R41.htm",
+    "category": "Details"
+  },
+  "Going Concern - Narrative (Details)": {
+    "url": "R42.htm",
+    "category": "Details"
+  },
+  "Summary of Significant Accounting Policies - Narrative (Details)": {
+    "url": "R43.htm",
+    "category": "Details"
+  },
+  "Summary of Significant Accounting Policies - Roll Forward of Receivable Allowance (Details)": {
+    "url": "R44.htm",
+    "category": "Details"
+  },
+  "Summary of Significant Accounting Policies - Property Plant and Equipment Useful Life (Details)": {
+    "url": "R45.htm",
+    "category": "Details"
+  },
+  "Summary of Significant Accounting Policies - Expected Subscriber Fees (Details)": {
+    "url": "R46.htm",
+    "category": "Details"
+  },
+  "Revenue Recognition - Disaggregated Revenue by Source (Details)": {
+    "url": "R47.htm",
+    "category": "Details"
+  },
+  "Revenue Recognition - Contract Balances (Details)": {
+    "url": "R48.htm",
+    "category": "Details"
+  },
+  "Revenue Recognition - Impact on Condensed Consolidated Balance Sheets (Details)": {
+    "url": "R49.htm",
+    "category": "Details"
+  },
+  "Revenue Recognition - Impact on Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) (Details)": {
+    "url": "R50.htm",
+    "category": "Details"
+  },
+  "Revenue Recognition - Impact on Condensed Consolidated Statement of Cash Flows (Details)": {
+    "url": "R51.htm",
+    "category": "Details"
+  },
+  "Property and Equipment - Schedule of Property and Equipment (Details)": {
+    "url": "R52.htm",
+    "category": "Details"
+  },
+  "Property and Equipment - Narrative (Details)": {
+    "url": "R53.htm",
+    "category": "Details"
+  },
+  "Goodwill - Schedule of Goodwill (Details)": {
+    "url": "R54.htm",
+    "category": "Details"
+  },
+  "Goodwill - Narrative (Details)": {
+    "url": "R55.htm",
+    "category": "Details"
+  },
+  "Other Accrued Liabilities - Schedule of other accrued liabilities (Details)": {
+    "url": "R56.htm",
+    "category": "Details"
+  },
+  "Long-Term Debt - Schedule of Long Term Debt (Details)": {
+    "url": "R57.htm",
+    "category": "Details"
+  },
+  "Long-Term Debt - Narrative (Details)": {
+    "url": "R58.htm",
+    "category": "Details"
+  },
+  "Long-Term Debt - Schedule of Long Term Debt Maturity (Details)": {
+    "url": "R59.htm",
+    "category": "Details"
+  },
+  "Derivatives - Narrative (Details)": {
+    "url": "R60.htm",
+    "category": "Details"
+  },
+  "Derivatives - Summary of Outstanding Swaps (Details)": {
+    "url": "R61.htm",
+    "category": "Details"
+  },
+  "Derivatives - Summary of Derivatives Designated as Cash Flow Hedges (Details)": {
+    "url": "R62.htm",
+    "category": "Details"
+  },
+  "Fair Value Measurements - Schedule of Fair Value Measured On Recurring Basis (Details)": {
+    "url": "R63.htm",
+    "category": "Details"
+  },
+  "Fair Value Measurements - Schedule of Instruments Not Carried at Fair Value (Details)": {
+    "url": "R64.htm",
+    "category": "Details"
+  },
+  "Income Taxes - Schedule of Components of Income Tax (Details)": {
+    "url": "R65.htm",
+    "category": "Details"
+  },
+  "Income Taxes - Schedule of Effective Income Tax Reconciliation (Details)": {
+    "url": "R66.htm",
+    "category": "Details"
+  },
+  "Income Taxes - Schedule of Deferred Tax Assets and Liabilities (Details)": {
+    "url": "R67.htm",
+    "category": "Details"
+  },
+  "Income Taxes - Narrative (Details)": {
+    "url": "R68.htm",
+    "category": "Details"
+  },
+  "Income Taxes - Schedule of Unrecognized Tax Benefit Roll-Forward (Details)": {
+    "url": "R69.htm",
+    "category": "Details"
+  },
+  "Stock-based and Long-Term Compensation - Narrative (Details)": {
+    "url": "R70.htm",
+    "category": "Details"
+  },
+  "Stock-based and Long-Term Compensation - Schedule of Option Activity (Details)": {
+    "url": "R71.htm",
+    "category": "Details"
+  },
+  "Stock-based and Long-Term Compensation - Schedule of Unvested Restricted Stock Awards and Restricted Stock Units (Details)": {
+    "url": "R72.htm",
+    "category": "Details"
+  },
+  "Stockholder's Equity - Narrative (Details)": {
+    "url": "R73.htm",
+    "category": "Details"
+  },
+  "Stockholder's Equity - Roll Forward Activity (Details)": {
+    "url": "R74.htm",
+    "category": "Details"
+  },
+  "Employee Benefit Plans - Narrative (Details)": {
+    "url": "R75.htm",
+    "category": "Details"
+  },
+  "Commitments, Contingencies and Other Liabilities - Summary of Future Minimum Lease Payments (Details)": {
+    "url": "R76.htm",
+    "category": "Details"
+  },
+  "Commitments, Contingencies and Other Liabilities - Narrative (Details)": {
+    "url": "R77.htm",
+    "category": "Details"
+  },
+  "Quarterly Financial Information (Unaudited - see accompanying accountants' report) (Details)": {
+    "url": "R78.htm",
+    "category": "Details"
+  },
+  "Condensed Consolidating Balance Sheet (Details)": {
+    "url": "R79.htm",
+    "category": "Details"
+  },
+  "Condensed Consolidating Statement of Operations and Comprehensive Income (Loss) (Details)": {
+    "url": "R80.htm",
+    "category": "Details"
+  },
+  "Condensed Consolidating Statements of Cash Flows (Details)": {
+    "url": "R81.htm",
+    "category": "Details"
+  },
+  "Uncategorized Items - mtii-20181231.xml": {
+    "url": "R9999.htm",
+    "category": "Cover"
+  }
+}
