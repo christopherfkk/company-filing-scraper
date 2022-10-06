@@ -6,12 +6,13 @@
 </head>
 <body>
 <br><br>
-<p align="center">
-    COMPANY FILING SCRAPER
-    <ol align="center"> 1. Enter the company ticker</ol>
-    <ol align="center"> 2. Wait for a few minutes since the SEC of United States limits to 10 requests/sec</ol>
-    <ol align="center"> 3. Get a table of 10 years worth of company statement entries</ol>
-</p>
+<div align="center">
+    <p>COMPANY FILING SCRAPER</p>
+    <ol> 1. Enter the company ticker</ol>
+    <ol> 2. Wait for a few minutes since the SEC of United States limits to 10 requests/sec</ol>
+    <ol> 3. Get a table of 10 years worth of company statement entries</ol>
+    <p> NOTE: the current goal is to improve scraping search accuracy, feel free to give feedback on e.g. whether info is enough</p>
+</div>
 <br><br><br>
 <form action="/frontend/result/" method="post" align="center">
     {% csrf_token %}
