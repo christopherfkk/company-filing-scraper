@@ -24,7 +24,6 @@ import numpy as np
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
-import gspread
 import logging
 import os
 import lxml
