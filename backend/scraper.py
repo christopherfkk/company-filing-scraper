@@ -53,7 +53,7 @@ class SECScraper:
         logging.info(f"Successfully found 10K base urls, e.g.\t{self.all_10ks_urls[0]}")
 
         master_df = None
-        years = 2
+        years = 10
         for i in range(years):
             url = self.all_10ks_urls[i]
             mapping = self.find_statement_to_table_mapping_for_single_10k(url)
@@ -189,7 +189,8 @@ class SECScraper:
         # Assume we want all the statements in a single data set.
 
         statements_url = []
-        for i in range(2, 11):
+        n_statements = 5
+        for i in range(2, 2+n_statements):
             statement_url = base_url + "/" + f"R{i}.htm"
             statements_url.append(statement_url)
 
@@ -238,7 +239,10 @@ class SECScraper:
         header = statements_data[0]['headers'][1]  # the dates
         data = []
         for i in range(len(statements_data)):
-            data += statements_data[i]['data']
+            for row in statements_data[i]['data']:
+                if len(row[0]) == 0 or len(row[0]) > 30 or row[0][0] == "[":
+                    continue
+                data.append(row)
         df = pd.DataFrame(data)
 
         converted = []

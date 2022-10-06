@@ -3,8 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <title>Results</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'frontend/style.css' %}" />
 </head>
 <body>
-
+<table border="1">
+  <tr>
+    {% for col in df.columns %}
+      <td>
+        {{col}}
+      </td>
+    {% endfor %}
+  </tr>
+    {% for index, row in df.iterrows %}
+      <tr>
+        {% for cell in row %}
+            {% if cell|length > 0 %}
+                <td>{{cell}}</td>
+            {% else %}
+                <td></td>
+            {% endif %}
+        {% endfor %}
+      </tr>
+    {% endfor %}
+</table>
 </body>
 </html>

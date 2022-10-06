@@ -5,8 +5,15 @@
     <title>Search</title>
 </head>
 <body>
-<p>Say hi to your stock valuation bot (company filing scraper)</p>
-<form action="/frontend/result/" method="post">
+<br><br>
+<p align="center">
+    COMPANY FILING SCRAPER
+    <ol align="center"> 1. Enter the company ticker</ol>
+    <ol align="center"> 2. Wait for a few minutes since the SEC of United States limits to 10 requests/sec</ol>
+    <ol align="center"> 3. Get a table of 10 years worth of company statement entries</ol>
+</p>
+<br><br><br>
+<form action="/frontend/result/" method="post" align="center">
     {% csrf_token %}
     <label for="result">Company ticker</label>
     <input id="result" type="text" name="ticker"> <!-- name property is the dict key in the post data -->
