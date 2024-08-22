@@ -2,7 +2,7 @@
 
 - I scraped and assembled 10 years of SEC financial statement filings for a given company
 - The data can then be used to feed into stock price valuation models, such as the dividend return model, or discounted cash flow model
-- I deployed a minimal Python Django web application on Heroku at https://pacific-island-17482.herokuapp.com/frontend that takes a company ticker and returns a table of the company's financial data with each column being a year
+- I deployed a minimal Python Django web application on Heroku that takes a company ticker and returns a table of the company's financial data with each column being a year
 - *UPDATE*: unfortunately I ran out of Heroku credits to keep it running
 - The scraper is at [back/scraper.py](backend/scraper.py)
 
